@@ -6,4 +6,5 @@ module.exports = {
     ...require('./prob6'),
     ...require('./prob8'),
     ...require('./prob10'),
+    ...require('./prob11'),
 };
