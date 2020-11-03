@@ -25,4 +25,4 @@ const answer = (n) => {
     return maxPrime;
 }
 
-exports.prob3 = answer;
+exports.largestPrimeFactor = answer;

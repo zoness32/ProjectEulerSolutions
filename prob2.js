@@ -22,4 +22,4 @@ const answer = (initX, initY, max) => {
     return sum;
 };
 
-exports.prob2 = answer;
+exports.evenFibonacciNumbers = answer;

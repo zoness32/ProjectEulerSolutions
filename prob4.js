@@ -89,4 +89,4 @@ const answer = () => {
 
 }
 
-exports.prob4 = answer;
+exports.largestPalindromeProduct = answer;
