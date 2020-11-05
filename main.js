@@ -152,6 +152,9 @@ switch (input) {
 20849603980134001723930671666823555245252804609722
 53503534226472524250874054075591789781264330331690`, 50));
         break;
+    case "14":
+        console.log(problems.longestCollatzSequence(1000000));
+        break;
     default:
         console.log("enter a valid value;    ", input);
         break;
