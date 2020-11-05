@@ -155,6 +155,9 @@ switch (input) {
     case "14":
         console.log(problems.longestCollatzSequence(1000000));
         break;
+    case "19":
+        console.log(problems.countingSundays());
+        break;
     default:
         console.log("enter a valid value;    ", input);
         break;
