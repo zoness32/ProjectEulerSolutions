@@ -158,6 +158,9 @@ switch (input) {
     case "19":
         console.log(problems.countingSundays());
         break;
+    case "20":
+        console.log(problems.factorialDigitSum(100));
+        break;
     default:
         console.log("enter a valid value;    ", input);
         break;
