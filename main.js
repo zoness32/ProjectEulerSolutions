@@ -164,6 +164,10 @@ switch (input) {
     case "25":
         console.log(problems.thousandDigitFibonacciNumber(1000));
         break;
+
+    case "60":
+        console.log(problems.primePairSets());
+        break;
     default:
         console.log("enter a valid value;    ", input);
         break;
