@@ -155,6 +155,9 @@ switch (input) {
     case "14":
         console.log(problems.longestCollatzSequence(1000000));
         break;
+    case "17":
+        console.log(problems.numberLetterCounts());
+        break;
     case "19":
         console.log(problems.countingSundays());
         break;
@@ -164,7 +167,6 @@ switch (input) {
     case "25":
         console.log(problems.thousandDigitFibonacciNumber(1000));
         break;
-
     case "60":
         console.log(problems.primePairSets());
         break;
